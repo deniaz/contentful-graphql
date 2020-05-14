@@ -1,0 +1,35 @@
+{
+  "name": "contentful-schema-generator",
+  "version": "1.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Vogt <robert@smartive.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "contentful": "^7.14.4",
+    "contentful-management": "^5.26.1",
+    "graphql": "^15.0.0",
+    "graphql-tools": "^5.0.0",
+    "next": "^9.4.0",
+    "pluralize": "^8.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/jest": "^25.2.2",
+    "@types/pluralize": "0.0.29",
+    "@types/react": "^16.9.35",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
+  }
+}
