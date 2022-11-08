@@ -15,7 +15,7 @@
     "contentful-management": "^5.26.1",
     "graphql": "^15.0.0",
     "graphql-tools": "^5.0.0",
-    "next": "^9.4.0",
+    "next": "^13.0.2",
     "pluralize": "^8.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
